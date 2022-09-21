@@ -649,5 +649,18 @@ Rodri Molina la puso en China
 
 Colores:
 
-Paleta Nº1:A80000
-Paleta Nº2:FFF800
+primera paleta:
+
+color1  #FA26C8
+color2  #C321DE
+color3 #A330F5
+color4 #5C21DE
+color5 #2E26FA
+
+segunda paleta:
+
+color1 #462A5C
+color2 #A765DB
+color3  #814DA8
+color4  #52465C
+color5  #E1FFF0
