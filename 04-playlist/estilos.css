@@ -1,8 +1,34 @@
 /*comentario de css */
-p {
-    color:blue;
+
+body {
+    background-image: url(/assest/imagenes/fondo\ prueba.png);
+
+
 }
 
-h1{
-    color:blueviolet
+
+table {
+    background-image: url(/assest/imagenes/tabla8.jpg);
+    color: #1c062c;
+    border: 2px solid;
+    border-collapse: collapse;
+
+}
+
+th {
+    color: #cec8d3 border: 2px solid;
+    border-collapse: collapse;
+}
+
+td {
+    font-size: 1.4em;
+    color:  #cec8d3;
+    border: 3px solid;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+
+tr {
+    color: #cec8d3;
 }
