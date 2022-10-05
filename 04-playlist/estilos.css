@@ -1,28 +1,35 @@
 /*comentario de css */
-
 body {
-    background-image: url(/assest/imagenes/fondo\ prueba.png);
+
+
+    background-image: url(/assest/imagenes/letrip5.jpg);
 
 
 }
 
+#inicio {
+    background-image: url(/assest/imagenes/fondo\ prueba.png);
+}
 
 table {
-    background-image: url(/assest/imagenes/tabla8.jpg);
-    color: #1c062c;
+
+    /*width: 56%;*/
+    background-image: url(/assest/imagenes/letrip.jpg);
+    color: #e7e7e7;
     border: 2px solid;
     border-collapse: collapse;
 
 }
 
 th {
-    color: #cec8d3 border: 2px solid;
+    color: #cec8d3;
+    border: 2px solid;
     border-collapse: collapse;
 }
 
 td {
     font-size: 1.4em;
-    color:  #cec8d3;
+    color: #cec8d3;
     border: 3px solid;
     border-collapse: collapse;
     text-align: center;
@@ -31,4 +38,38 @@ td {
 
 tr {
     color: #cec8d3;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h5 {
+    text-align: center;
+    color: rgba(201, 201, 201, 0.897);
+}
+
+header {
+    background-color: rgb(139, 128, 128);
+}
+
+footer {
+    background-color: rgb(139, 128, 128);
+
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
